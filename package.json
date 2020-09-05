@@ -11,7 +11,7 @@
     "start": "resume serve"
   },
   "dependencies": {
-    "handlebars": "^2.0.0-alpha.4",
+    "handlebars": "^4.5.3",
     "handlebars-helpers": "^0.10.0",
     "jsonresume-themeutils": "^1.4.3"
   },
