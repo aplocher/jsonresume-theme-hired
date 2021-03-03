@@ -178,6 +178,22 @@ h4 span {
 	#publications .website a:before {
 		content: "View publication";
 	}
+	#header {
+		background-color: #fff;
+		padding-bottom: 0;
+		padding-top: 35px;
+	}
+
+	#skills .name, 
+	#skills .name h4 {
+		display: inline;
+	}
+
+	#skills .name :after {
+		content: ': ';
+		display: inline;
+		margin-right:8px;
+	}
 }
 @media (max-width: 480px) {
 	h1 {
@@ -206,7 +222,9 @@ h4 span {
 	margin: 1.5cm;
 }
 
-.end-date-present { font-style: italic; }
+.end-date-present { 
+	font-style: italic; 
+}
 
 .inline-list {
 	display: inline;
