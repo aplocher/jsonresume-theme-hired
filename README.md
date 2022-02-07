@@ -1,4 +1,8 @@
-The main goal was to make a decent / professional looking resume that is printable and easily usable as HTML.
+# Introduction
+
+A professional looking theme that is printable and easily usable as HTML. 
+
+# Features
 
 Based on the flat theme, with the following changes / enhancements:
 
@@ -11,3 +15,11 @@ Based on the flat theme, with the following changes / enhancements:
  * Removed protocol prefixes for URLs (for printability)
  * Made some of the URLs hyperlinked
  * Made bullets a little easier to see
+
+ # Screenshots
+
+**PDF / Printed Page Margins**
+ ![PDF Screenshot](sample-pdf.png?raw=true)
+
+**HTML**
+ ![HTML Screenshot](sample-html.png?raw=true)
