@@ -7,9 +7,6 @@
     "type": "git",
     "url": "http://github.com/aplocher/jsonresume-theme-hired"
   },
-  "scripts": {
-    "start": "resume serve"
-  },
   "dependencies": {
     "handlebars": "^4.7.7",
     "handlebars-helpers": "^0.10.0",
