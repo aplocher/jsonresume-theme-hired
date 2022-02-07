@@ -16,6 +16,29 @@ Based on the flat theme, with the following changes / enhancements:
  * Made some of the URLs hyperlinked
  * Made bullets a little easier to see
 
+# Requirements
+
+* nodejs
+* resume-cli
+
+# Installation
+
+```
+npm install jsonresume-theme-hired
+```
+
+ # Usage
+
+ Generate PDF File:
+ ```
+ resume export sample.pdf --format pdf --resume .\sample.resume.json --theme C:\Users\a\source\repos\test2\jsonresume-theme-hired
+ ```
+
+Generate HTML File:
+ ```
+ resume export sample.html --format html --resume .\sample.resume.json --theme C:\Users\a\source\repos\test2\jsonresume-theme-hired
+ ```
+
  # Screenshots
 
 **PDF / Printed Page Margins**
