@@ -11,7 +11,7 @@ a {
 }
 a:focus,
 a:hover {
-	color: #d8b908;
+	color: darkslateblue;
 	text-decoration: none;
 }
 p {
